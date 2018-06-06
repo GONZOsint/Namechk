@@ -1,6 +1,8 @@
 # Namechk
 Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks.
 
+![test](https://i.imgur.com/P5jevlz.jpg)
+
 ## Use:
 
 - Search available username:
@@ -10,7 +12,7 @@ Osint tool based on namechk.com for checking usernames on more than 100 websites
 ```./namechk.sh  <username> -au -co```
 	
 - Search available username list:
-```./namechk.sh -l -fu```
+```./namechk.sh -l -au```
 	
 - Search used username:
 ```./namechk.sh <username> -fu```
