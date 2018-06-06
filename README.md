@@ -1,7 +1,7 @@
+![logo](https://imgur.com/9UNrJr3.jpg)
+
 # Namechk
 Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks.
-
-![test](https://imgur.com/phYCxbZ.jpg)
 
 ## Use:
 
@@ -23,6 +23,7 @@ Osint tool based on namechk.com for checking usernames on more than 100 websites
 - Search used username list:
 ```./namechk.sh -l -fu```
 	
+![test](https://imgur.com/phYCxbZ.jpg)
 
 ## Tested webs
 
