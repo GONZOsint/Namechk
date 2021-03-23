@@ -1,5 +1,7 @@
 ![logo](https://imgur.com/9UNrJr3.jpg)
 
+# ! The tool no longer works properly. There are much better alternatives like [Sherlock](https://github.com/sherlock-project/sherlock), [Maigret](https://github.com/soxoj/maigret) or [whatsmyname](https://whatsmyname.app/).
+
 # Namechk
 Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks.
 
